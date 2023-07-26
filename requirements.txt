@@ -1,3 +1,2 @@
 # requiremens.txt
 snowflake-connector-python
-dffi==1.15.0
